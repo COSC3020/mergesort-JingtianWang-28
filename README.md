@@ -15,7 +15,7 @@ Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
 
-///
+///\
 The mergeInPlace function merges two subarrays in place, without using an additional array\
 mergesort merges larger and larger subarrays in an iterative manner, eventually sorting the entire array, with each element being compared and moved at most once\
 In each round of merging, merging all subarrays takes a total of O(n) time\
