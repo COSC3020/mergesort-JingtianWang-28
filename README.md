@@ -27,3 +27,12 @@ At each level, the subproblem is twice as large as half the elements of the prev
 This means that at j = 0, 1, 2, ..., logN there will be 2^j subproblems with an input length of N / 2^j.\
 Because the size of the subarray doubles each time, a total of O(logn) rounds are required\
 The total time complexity is O(n logn)
+
+###\
+https://stackoverflow.com/questions/1557894/non-recursive-merge-sort
+https://stackoverflow.com/questions/7801861/why-is-merge-sort-worst-case-run-time-o-n-log-n
+https://www.geeksforgeeks.org/merge-sort/
+\
+Sources: chatgept provide me with ideas for proof methods. And complete the assignment through the examples and theorems on the above website.
+
+Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
