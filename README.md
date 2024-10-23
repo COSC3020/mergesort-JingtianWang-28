@@ -28,6 +28,12 @@ This means that at j = 0, 1, 2, ..., logN there will be 2^j subproblems with an 
 Because the size of the subarray doubles each time, a total of O(logn) rounds are required\
 The total time complexity is O(n logn)
 
+In-place merge sort does not use extra space.
+When merging the elements of the right subarray, the elements of the left subarray must be moved to the right.
+In the worst case, each time an element is inserted from the right subarray, multiple elements of the left subarray may be moved to the right.
+Therefore, the time complexity of each merge becomes $O(n^2)$.
+So the worst case time complexity is $O(n^2 log(n))$
+
 ###\
 https://stackoverflow.com/questions/1557894/non-recursive-merge-sort
 https://stackoverflow.com/questions/7801861/why-is-merge-sort-worst-case-run-time-o-n-log-n
