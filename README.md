@@ -42,6 +42,6 @@ https://stackoverflow.com/questions/1557894/non-recursive-merge-sort
 https://stackoverflow.com/questions/7801861/why-is-merge-sort-worst-case-run-time-o-n-log-n
 https://www.geeksforgeeks.org/merge-sort/
 \
-Sources: 
+Sources: Provides the process of in-place merging and the method of merging arrays from small to large, including the usage rules of the math.min function, and the process of array size change at runtime. For the proof part, it comes from the following website
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
