@@ -42,6 +42,6 @@ https://stackoverflow.com/questions/1557894/non-recursive-merge-sort
 https://stackoverflow.com/questions/7801861/why-is-merge-sort-worst-case-run-time-o-n-log-n
 https://www.geeksforgeeks.org/merge-sort/
 \
-Sources: chatgept provide me with ideas for proof methods. And complete the assignment through the examples and theorems on the above website.
+Sources: Provide the principle of pushing the unsorted subarray index into the stack, how to record the pivot position, and help me locate the cause of the error. For the proof part, it comes from the following website
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
