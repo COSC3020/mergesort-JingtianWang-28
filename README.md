@@ -38,12 +38,14 @@ Therefore, the worst case time complexity of merging two subarrays becomes O(n^2
 The worst case time complexity is O(n^2 log(n))\
 
 ###\
+
+\
+Sources: help me to understand the math.min function, and the implementation logic in the non-recursive case, and three websites provided me with inspiration for proving time complexity\
 https://stackoverflow.com/questions/1557894/non-recursive-merge-sort
 https://stackoverflow.com/questions/7801861/why-is-merge-sort-worst-case-run-time-o-n-log-n
 https://www.geeksforgeeks.org/merge-sort/
-\
-Sources: Provides the process of in-place merging and the method of merging arrays from small to large, including the usage rules of the math.min function, and the process of array size change at runtime. For the proof part, it comes from the following website\
 
 The above information only provides me with some basic explanations and detailed explanations of theorems. The code construction and the complete problem-solving process are completed by myself.\
+I did: Complete code construction, configure the math.min function, prove the process of element movement, prove the time complexity of traditional recursive case, and prove the time complexity of non-recursive case.\
 
 Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
